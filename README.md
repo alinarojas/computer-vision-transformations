@@ -3,7 +3,7 @@
 This repository contains a complete set of image processing and computer vision exercises developed for Computer Vision university course at U-tad.
 All tasks were implemented in a single Jupyter notebook, supported by an `img/` directory containing test images.
 
-The work covers a wide range of transformations and filtering techniques, including contrast enhancement, denoising, Gaussian filtering, edge detection, feature extraction, and connected-components analysis.
+The work covers a wide range of transformations and filtering techniques, including contrast enhancement, denoising, Gaussian filtering, edge detection, feature extraction and connected-components analysis.
 Both manual implementations and OpenCV-based methods are explored throughout the notebook.
 
 
